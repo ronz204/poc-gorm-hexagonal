@@ -1,2 +1,0 @@
-go build -o cli.exe .\cmd\cli\main.go
-go build -o api.exe .\cmd\api\main.go
